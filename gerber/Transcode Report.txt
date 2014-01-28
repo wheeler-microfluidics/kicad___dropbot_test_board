@@ -1,0 +1,50 @@
+
+
+   ---- Transcoding 'C:\Users\ryan\Dropbox\dropbot\dropbot test board\gerber\dropbot test board-F_Paste.gtp' ----   Thu Sep 19 14:07:48 2013
+
+D11   --> D100
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\ryan\Dropbox\dropbot\dropbot test board\gerber\dropbot test board-F_Mask.gts' ----   Thu Sep 19 14:07:48 2013
+
+D11   --> D101
+D12   --> D102
+D13   --> D103
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\ryan\Dropbox\dropbot\dropbot test board\gerber\dropbot test board-Front.gtl' ----   Thu Sep 19 14:07:48 2013
+
+D11   --> D104
+D12   --> D105
+D13   --> D106
+D14   --> D107
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\ryan\Dropbox\dropbot\dropbot test board\gerber\dropbot test board-Edge_Cuts.gbr' ----   Thu Sep 19 14:07:48 2013
+
+D11   --> D108
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\ryan\Dropbox\dropbot\dropbot test board\gerber\dropbot test board-Back.gbl' ----   Thu Sep 19 14:07:48 2013
+
+D11   --> D109
+D12   --> D110
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\ryan\Dropbox\dropbot\dropbot test board\gerber\dropbot test board-B_Mask.gbs' ----   Thu Sep 19 14:07:48 2013
+
+D11   --> D111
+D12   --> D112
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\ryan\Dropbox\dropbot\dropbot test board\gerber\dropbot test board-B_SilkS.gbo' ----   Thu Sep 19 14:07:48 2013
+
+D11   --> D113
+D12   --> D114
+-----------------------------------------------------------------
